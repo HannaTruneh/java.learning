@@ -90,11 +90,13 @@ public class FruitVegetableDemo {
 
         Fruit apple = new Fruit("Apple", 0.2, "Red");
         Vegetable lettuce = new Vegetable("Lettuce", 0.5, true);
+        Vegetable carrot = new Vegetable("Carrot", 0.3, false);
 
 
         customer.addProduct(apple);
         customer.addProduct(lettuce);
         customer2.addProduct(lettuce);
+        customer2.addProduct(carrot);
 
         for (Customer c : List.of(customer, customer2)) {
             System.out.println("Customer: " + c.getName());

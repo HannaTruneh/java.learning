@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f14daa7-111b-4467-9a79-ece593fab114" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/MusicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitVegetableDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +29,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/FruitVegetableDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lesson9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/LibraryDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MusicDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/PetDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/StudentDemo.java" root0="SKIP_INSPECTION" />
   </component>
@@ -47,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FruitVegetableDemo.executor": "Run",
     "Application.Lesson8.executor": "Run",
     "Application.LibraryDemo.executor": "Run",
     "Application.MusicDemo.executor": "Run",
@@ -132,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774689980322</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1774693906569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774693906569</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1774694545377</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774694545377</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

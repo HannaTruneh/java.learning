@@ -82,7 +82,6 @@ class MusicUser implements User {
     }
 }
 
-
 public class MusicDemo {
     public static void main(String[] args) {
         MusicUser user = new MusicUser("Alice");
